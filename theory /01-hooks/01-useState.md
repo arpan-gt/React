@@ -4,7 +4,7 @@ Q. What is useState ?
 => With useState, we can make components interactive and dynamic.
 => It triggers a re-render whenever the state changes.
 
-=> Syntax
+=> Syntax : 
 const [state, setState] = useState(initialValue);
 
     state=> current state value
