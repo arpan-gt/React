@@ -31,7 +31,7 @@
                             alert("I will run on every render");
                           })
 
-
+---
 
                           case 2: run only on first render
                           useEffect(()=>{
