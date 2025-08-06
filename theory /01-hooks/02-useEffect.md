@@ -38,7 +38,7 @@
                             alert("I will run only on first render")
                           },[]);
 
-
+---
                           case 3: run everytime when value changed
 
                           useEffect(()=>{
