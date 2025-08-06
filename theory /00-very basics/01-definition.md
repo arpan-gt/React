@@ -27,3 +27,10 @@ reconciliation is the process React uses to diff one tree with another to determ
 ==> this makes react fast and efficient avoiding full DOM re-render.
 
 ---
+
+Q.5 Props
+props are how data is passed from parent to child components in React.these are very similar to parameters in javascript functions
+
+---
+
+
